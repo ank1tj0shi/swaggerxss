@@ -1,8 +1,8 @@
 {
-    "url": "https://github.com/ank1tj0shi/swaggerxss.yaml/blob/main/swaggerxss.yaml",
+    "url": "https://github.com/ank1tj0shi/swaggerxss/blob/main/swaggerxss.yaml",
     "urls": [
         {
-            "url": "https://github.com/ank1tj0shi/swaggerxss.yaml/blob/main/swaggerxss.yaml",
+            "url": "https://github.com/ank1tj0shi/swaggerxss/blob/main/swaggerxss.yaml",
             "name": "Foo"
         }
     ]
